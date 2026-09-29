@@ -2,6 +2,8 @@
 
 An editable Unity sample demonstrating runtime recording from two cameras and the player screen, either as separate videos or as one automatically edited multi-source video.
 
+[Download the latest release](https://github.com/cine-capture/UnitySample/releases).
+
 ## Run and record
 
 Video recording requires Windows x64, an NVIDIA NVENC GPU with a recent driver, and [FFmpeg](https://ffmpeg.org/download.html). Set `FFMPEG_PATH` to the absolute path of the FFmpeg `bin` directory containing `ffmpeg.exe` and `ffprobe.exe` before launching Unity or the app.
